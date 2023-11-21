@@ -1,0 +1,35 @@
+{
+    "products":[
+        {
+            "id":1,
+            "productimage":"https://bytelecom.az/media/2023/09/26/product_images/25563/iphone-15-pro-max-black-titanium-1.jpg",
+            "name":"Iphone 15",
+            "price":1500,
+            "count":0
+        },
+        {
+            "id":2,
+            "productimage":"https://www.soliton.az/images/articles/2023/02/01/20230201122202503_c3_22.jpg",
+            "name":"Samsung Galaxy S23",
+            "price":1400,
+            "count":0
+        },
+        {
+            "id":3,
+            "productimage":"https://www.bakuelectronics.az/assets/images/products/101152/xiaomi-mi-11-lite-5g-8gb256gb-bubblegum-blue-1.jpg",
+            "name":"Xiaomi Mi 11 Lite",
+            "price":1000,
+            "count":0
+        },
+        {
+            "id":4,
+            "productimage":"https://strgimgr.umico.az/sized/840/27749-7ea6882479d1f6d4a90bc658c4f2ad88.jpg",
+            "name":"Huawei P40 Lite",
+            "price":800,
+            "count":0
+        }
+    ],
+    "basket":[
+        
+    ]
+}
